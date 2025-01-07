@@ -14,7 +14,8 @@
     "language": [
       "Hindi"
     ],
-    "isMovie": true
+    "isMovie": true,
+    "category": "Action"
   },
   {
     "id": "_vFRK1LGWoE",
@@ -29,7 +30,8 @@
     "language": [
       "Hindi"
     ],
-    "isMovie": true
+    "isMovie": true,
+    "category": "Comedy"
   },
   {
     "id": "7BPczrVf7xk",
@@ -45,7 +47,8 @@
     "language": [
       "Hindi"
     ],
-    "isMovie": true
+    "isMovie": true,
+    "category": "Comedy"
   },
   {
     "id": "1OU5OECupR8",
@@ -60,6 +63,7 @@
     "language": [
       "Hindi"
     ],
-    "isMovie": true
+    "isMovie": true,
+    "category": "Action"
   }
 ]
